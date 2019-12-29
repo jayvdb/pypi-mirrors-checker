@@ -29,7 +29,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Leo Zhou",
     author_email='glasslion@gmail.com',
-    url='https://github.com/glasslion/pypi-mirrors-checker',
+    url='https://github.com/pombredanne/pypi-mirrors-checker',
     packages=[
         'pypimirrorschecker',
     ],
